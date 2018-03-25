@@ -1,0 +1,5862 @@
+fileFormatVersion: 2
+guid: 2f03e6ea7ee23014499695dcfaefe148
+timeCreated: 1521880980
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_base_addon_2012_12_14 (1)_0
+    21300002: sprite_base_addon_2012_12_14 (1)_1
+    21300004: sprite_base_addon_2012_12_14 (1)_2
+    21300006: sprite_base_addon_2012_12_14 (1)_3
+    21300008: sprite_base_addon_2012_12_14 (1)_4
+    21300010: sprite_base_addon_2012_12_14 (1)_5
+    21300012: sprite_base_addon_2012_12_14 (1)_6
+    21300014: sprite_base_addon_2012_12_14 (1)_7
+    21300016: sprite_base_addon_2012_12_14 (1)_8
+    21300018: sprite_base_addon_2012_12_14 (1)_9
+    21300020: sprite_base_addon_2012_12_14 (1)_10
+    21300022: sprite_base_addon_2012_12_14 (1)_11
+    21300024: sprite_base_addon_2012_12_14 (1)_12
+    21300026: sprite_base_addon_2012_12_14 (1)_13
+    21300028: sprite_base_addon_2012_12_14 (1)_14
+    21300030: sprite_base_addon_2012_12_14 (1)_15
+    21300032: sprite_base_addon_2012_12_14 (1)_16
+    21300034: sprite_base_addon_2012_12_14 (1)_17
+    21300036: sprite_base_addon_2012_12_14 (1)_18
+    21300038: sprite_base_addon_2012_12_14 (1)_19
+    21300040: sprite_base_addon_2012_12_14 (1)_20
+    21300042: sprite_base_addon_2012_12_14 (1)_21
+    21300044: sprite_base_addon_2012_12_14 (1)_22
+    21300046: sprite_base_addon_2012_12_14 (1)_23
+    21300048: sprite_base_addon_2012_12_14 (1)_24
+    21300050: sprite_base_addon_2012_12_14 (1)_25
+    21300052: sprite_base_addon_2012_12_14 (1)_26
+    21300054: sprite_base_addon_2012_12_14 (1)_27
+    21300056: sprite_base_addon_2012_12_14 (1)_28
+    21300058: sprite_base_addon_2012_12_14 (1)_29
+    21300060: sprite_base_addon_2012_12_14 (1)_30
+    21300062: sprite_base_addon_2012_12_14 (1)_31
+    21300064: sprite_base_addon_2012_12_14 (1)_32
+    21300066: sprite_base_addon_2012_12_14 (1)_33
+    21300068: sprite_base_addon_2012_12_14 (1)_34
+    21300070: sprite_base_addon_2012_12_14 (1)_35
+    21300072: sprite_base_addon_2012_12_14 (1)_36
+    21300074: sprite_base_addon_2012_12_14 (1)_37
+    21300076: sprite_base_addon_2012_12_14 (1)_38
+    21300078: sprite_base_addon_2012_12_14 (1)_39
+    21300080: sprite_base_addon_2012_12_14 (1)_40
+    21300082: sprite_base_addon_2012_12_14 (1)_41
+    21300084: sprite_base_addon_2012_12_14 (1)_42
+    21300086: sprite_base_addon_2012_12_14 (1)_43
+    21300088: sprite_base_addon_2012_12_14 (1)_44
+    21300090: sprite_base_addon_2012_12_14 (1)_45
+    21300092: sprite_base_addon_2012_12_14 (1)_46
+    21300094: sprite_base_addon_2012_12_14 (1)_47
+    21300096: sprite_base_addon_2012_12_14 (1)_48
+    21300098: sprite_base_addon_2012_12_14 (1)_49
+    21300100: sprite_base_addon_2012_12_14 (1)_50
+    21300102: sprite_base_addon_2012_12_14 (1)_51
+    21300104: sprite_base_addon_2012_12_14 (1)_52
+    21300106: sprite_base_addon_2012_12_14 (1)_53
+    21300108: sprite_base_addon_2012_12_14 (1)_54
+    21300110: sprite_base_addon_2012_12_14 (1)_55
+    21300112: sprite_base_addon_2012_12_14 (1)_56
+    21300114: sprite_base_addon_2012_12_14 (1)_57
+    21300116: sprite_base_addon_2012_12_14 (1)_58
+    21300118: sprite_base_addon_2012_12_14 (1)_59
+    21300120: sprite_base_addon_2012_12_14 (1)_60
+    21300122: sprite_base_addon_2012_12_14 (1)_61
+    21300124: sprite_base_addon_2012_12_14 (1)_62
+    21300126: sprite_base_addon_2012_12_14 (1)_63
+    21300128: sprite_base_addon_2012_12_14 (1)_64
+    21300130: sprite_base_addon_2012_12_14 (1)_65
+    21300132: sprite_base_addon_2012_12_14 (1)_66
+    21300134: sprite_base_addon_2012_12_14 (1)_67
+    21300136: sprite_base_addon_2012_12_14 (1)_68
+    21300138: sprite_base_addon_2012_12_14 (1)_69
+    21300140: sprite_base_addon_2012_12_14 (1)_70
+    21300142: sprite_base_addon_2012_12_14 (1)_71
+    21300144: sprite_base_addon_2012_12_14 (1)_72
+    21300146: sprite_base_addon_2012_12_14 (1)_73
+    21300148: sprite_base_addon_2012_12_14 (1)_74
+    21300150: sprite_base_addon_2012_12_14 (1)_75
+    21300152: sprite_base_addon_2012_12_14 (1)_76
+    21300154: sprite_base_addon_2012_12_14 (1)_77
+    21300156: sprite_base_addon_2012_12_14 (1)_78
+    21300158: sprite_base_addon_2012_12_14 (1)_79
+    21300160: sprite_base_addon_2012_12_14 (1)_80
+    21300162: sprite_base_addon_2012_12_14 (1)_81
+    21300164: sprite_base_addon_2012_12_14 (1)_82
+    21300166: sprite_base_addon_2012_12_14 (1)_83
+    21300168: sprite_base_addon_2012_12_14 (1)_84
+    21300170: sprite_base_addon_2012_12_14 (1)_85
+    21300172: sprite_base_addon_2012_12_14 (1)_86
+    21300174: sprite_base_addon_2012_12_14 (1)_87
+    21300176: sprite_base_addon_2012_12_14 (1)_88
+    21300178: sprite_base_addon_2012_12_14 (1)_89
+    21300180: sprite_base_addon_2012_12_14 (1)_90
+    21300182: sprite_base_addon_2012_12_14 (1)_91
+    21300184: sprite_base_addon_2012_12_14 (1)_92
+    21300186: sprite_base_addon_2012_12_14 (1)_93
+    21300188: sprite_base_addon_2012_12_14 (1)_94
+    21300190: sprite_base_addon_2012_12_14 (1)_95
+    21300192: sprite_base_addon_2012_12_14 (1)_96
+    21300194: sprite_base_addon_2012_12_14 (1)_97
+    21300196: sprite_base_addon_2012_12_14 (1)_98
+    21300198: sprite_base_addon_2012_12_14 (1)_99
+    21300200: sprite_base_addon_2012_12_14 (1)_100
+    21300202: sprite_base_addon_2012_12_14 (1)_101
+    21300204: sprite_base_addon_2012_12_14 (1)_102
+    21300206: sprite_base_addon_2012_12_14 (1)_103
+    21300208: sprite_base_addon_2012_12_14 (1)_104
+    21300210: sprite_base_addon_2012_12_14 (1)_105
+    21300212: sprite_base_addon_2012_12_14 (1)_106
+    21300214: sprite_base_addon_2012_12_14 (1)_107
+    21300216: sprite_base_addon_2012_12_14 (1)_108
+    21300218: sprite_base_addon_2012_12_14 (1)_109
+    21300220: sprite_base_addon_2012_12_14 (1)_110
+    21300222: sprite_base_addon_2012_12_14 (1)_111
+    21300224: sprite_base_addon_2012_12_14 (1)_112
+    21300226: sprite_base_addon_2012_12_14 (1)_113
+    21300228: sprite_base_addon_2012_12_14 (1)_114
+    21300230: sprite_base_addon_2012_12_14 (1)_115
+    21300232: sprite_base_addon_2012_12_14 (1)_116
+    21300234: sprite_base_addon_2012_12_14 (1)_117
+    21300236: sprite_base_addon_2012_12_14 (1)_118
+    21300238: sprite_base_addon_2012_12_14 (1)_119
+    21300240: sprite_base_addon_2012_12_14 (1)_120
+    21300242: sprite_base_addon_2012_12_14 (1)_121
+    21300244: sprite_base_addon_2012_12_14 (1)_122
+    21300246: sprite_base_addon_2012_12_14 (1)_123
+    21300248: sprite_base_addon_2012_12_14 (1)_124
+    21300250: sprite_base_addon_2012_12_14 (1)_125
+    21300252: sprite_base_addon_2012_12_14 (1)_126
+    21300254: sprite_base_addon_2012_12_14 (1)_127
+    21300256: sprite_base_addon_2012_12_14 (1)_128
+    21300258: sprite_base_addon_2012_12_14 (1)_129
+    21300260: sprite_base_addon_2012_12_14 (1)_130
+    21300262: sprite_base_addon_2012_12_14 (1)_131
+    21300264: sprite_base_addon_2012_12_14 (1)_132
+    21300266: sprite_base_addon_2012_12_14 (1)_133
+    21300268: sprite_base_addon_2012_12_14 (1)_134
+    21300270: sprite_base_addon_2012_12_14 (1)_135
+    21300272: sprite_base_addon_2012_12_14 (1)_136
+    21300274: sprite_base_addon_2012_12_14 (1)_137
+    21300276: sprite_base_addon_2012_12_14 (1)_138
+    21300278: sprite_base_addon_2012_12_14 (1)_139
+    21300280: sprite_base_addon_2012_12_14 (1)_140
+    21300282: sprite_base_addon_2012_12_14 (1)_141
+    21300284: sprite_base_addon_2012_12_14 (1)_142
+    21300286: sprite_base_addon_2012_12_14 (1)_143
+    21300288: sprite_base_addon_2012_12_14 (1)_144
+    21300290: sprite_base_addon_2012_12_14 (1)_145
+    21300292: sprite_base_addon_2012_12_14 (1)_146
+    21300294: sprite_base_addon_2012_12_14 (1)_147
+    21300296: sprite_base_addon_2012_12_14 (1)_148
+    21300298: sprite_base_addon_2012_12_14 (1)_149
+    21300300: sprite_base_addon_2012_12_14 (1)_150
+    21300302: sprite_base_addon_2012_12_14 (1)_151
+    21300304: sprite_base_addon_2012_12_14 (1)_152
+    21300306: sprite_base_addon_2012_12_14 (1)_153
+    21300308: sprite_base_addon_2012_12_14 (1)_154
+    21300310: sprite_base_addon_2012_12_14 (1)_155
+    21300312: sprite_base_addon_2012_12_14 (1)_156
+    21300314: sprite_base_addon_2012_12_14 (1)_157
+    21300316: sprite_base_addon_2012_12_14 (1)_158
+    21300318: sprite_base_addon_2012_12_14 (1)_159
+    21300320: sprite_base_addon_2012_12_14 (1)_160
+    21300322: sprite_base_addon_2012_12_14 (1)_161
+    21300324: sprite_base_addon_2012_12_14 (1)_162
+    21300326: sprite_base_addon_2012_12_14 (1)_163
+    21300328: sprite_base_addon_2012_12_14 (1)_164
+    21300330: sprite_base_addon_2012_12_14 (1)_165
+    21300332: sprite_base_addon_2012_12_14 (1)_166
+    21300334: sprite_base_addon_2012_12_14 (1)_167
+    21300336: sprite_base_addon_2012_12_14 (1)_168
+    21300338: sprite_base_addon_2012_12_14 (1)_169
+    21300340: sprite_base_addon_2012_12_14 (1)_170
+    21300342: sprite_base_addon_2012_12_14 (1)_171
+    21300344: sprite_base_addon_2012_12_14 (1)_172
+    21300346: sprite_base_addon_2012_12_14 (1)_173
+    21300348: sprite_base_addon_2012_12_14 (1)_174
+    21300350: sprite_base_addon_2012_12_14 (1)_175
+    21300352: sprite_base_addon_2012_12_14 (1)_176
+    21300354: sprite_base_addon_2012_12_14 (1)_177
+    21300356: sprite_base_addon_2012_12_14 (1)_178
+    21300358: sprite_base_addon_2012_12_14 (1)_179
+    21300360: sprite_base_addon_2012_12_14 (1)_180
+    21300362: sprite_base_addon_2012_12_14 (1)_181
+    21300364: sprite_base_addon_2012_12_14 (1)_182
+    21300366: sprite_base_addon_2012_12_14 (1)_183
+    21300368: sprite_base_addon_2012_12_14 (1)_184
+    21300370: sprite_base_addon_2012_12_14 (1)_185
+    21300372: sprite_base_addon_2012_12_14 (1)_186
+    21300374: sprite_base_addon_2012_12_14 (1)_187
+    21300376: sprite_base_addon_2012_12_14 (1)_188
+    21300378: sprite_base_addon_2012_12_14 (1)_189
+    21300380: sprite_base_addon_2012_12_14 (1)_190
+    21300382: sprite_base_addon_2012_12_14 (1)_191
+    21300384: sprite_base_addon_2012_12_14 (1)_192
+    21300386: sprite_base_addon_2012_12_14 (1)_193
+    21300388: sprite_base_addon_2012_12_14 (1)_194
+    21300390: sprite_base_addon_2012_12_14 (1)_195
+    21300392: sprite_base_addon_2012_12_14 (1)_196
+    21300394: sprite_base_addon_2012_12_14 (1)_197
+    21300396: sprite_base_addon_2012_12_14 (1)_198
+    21300398: sprite_base_addon_2012_12_14 (1)_199
+    21300400: sprite_base_addon_2012_12_14 (1)_200
+    21300402: sprite_base_addon_2012_12_14 (1)_201
+    21300404: sprite_base_addon_2012_12_14 (1)_202
+    21300406: sprite_base_addon_2012_12_14 (1)_203
+    21300408: sprite_base_addon_2012_12_14 (1)_204
+    21300410: sprite_base_addon_2012_12_14 (1)_205
+    21300412: sprite_base_addon_2012_12_14 (1)_206
+    21300414: sprite_base_addon_2012_12_14 (1)_207
+    21300416: sprite_base_addon_2012_12_14 (1)_208
+    21300418: sprite_base_addon_2012_12_14 (1)_209
+    21300420: sprite_base_addon_2012_12_14 (1)_210
+    21300422: sprite_base_addon_2012_12_14 (1)_211
+    21300424: sprite_base_addon_2012_12_14 (1)_212
+    21300426: sprite_base_addon_2012_12_14 (1)_213
+    21300428: sprite_base_addon_2012_12_14 (1)_214
+    21300430: sprite_base_addon_2012_12_14 (1)_215
+    21300432: sprite_base_addon_2012_12_14 (1)_216
+    21300434: sprite_base_addon_2012_12_14 (1)_217
+    21300436: sprite_base_addon_2012_12_14 (1)_218
+    21300438: sprite_base_addon_2012_12_14 (1)_219
+    21300440: sprite_base_addon_2012_12_14 (1)_220
+    21300442: sprite_base_addon_2012_12_14 (1)_221
+    21300444: sprite_base_addon_2012_12_14 (1)_222
+    21300446: sprite_base_addon_2012_12_14 (1)_223
+    21300448: sprite_base_addon_2012_12_14 (1)_224
+    21300450: sprite_base_addon_2012_12_14 (1)_225
+    21300452: sprite_base_addon_2012_12_14 (1)_226
+    21300454: sprite_base_addon_2012_12_14 (1)_227
+    21300456: sprite_base_addon_2012_12_14 (1)_228
+    21300458: sprite_base_addon_2012_12_14 (1)_229
+    21300460: sprite_base_addon_2012_12_14 (1)_230
+    21300462: sprite_base_addon_2012_12_14 (1)_231
+    21300464: sprite_base_addon_2012_12_14 (1)_232
+    21300466: sprite_base_addon_2012_12_14 (1)_233
+    21300468: sprite_base_addon_2012_12_14 (1)_234
+    21300470: sprite_base_addon_2012_12_14 (1)_235
+    21300472: sprite_base_addon_2012_12_14 (1)_236
+    21300474: sprite_base_addon_2012_12_14 (1)_237
+    21300476: sprite_base_addon_2012_12_14 (1)_238
+    21300478: sprite_base_addon_2012_12_14 (1)_239
+    21300480: sprite_base_addon_2012_12_14 (1)_240
+    21300482: sprite_base_addon_2012_12_14 (1)_241
+    21300484: sprite_base_addon_2012_12_14 (1)_242
+    21300486: sprite_base_addon_2012_12_14 (1)_243
+    21300488: sprite_base_addon_2012_12_14 (1)_244
+    21300490: sprite_base_addon_2012_12_14 (1)_245
+    21300492: sprite_base_addon_2012_12_14 (1)_246
+    21300494: sprite_base_addon_2012_12_14 (1)_247
+    21300496: sprite_base_addon_2012_12_14 (1)_248
+    21300498: sprite_base_addon_2012_12_14 (1)_249
+    21300500: sprite_base_addon_2012_12_14 (1)_250
+    21300502: sprite_base_addon_2012_12_14 (1)_251
+    21300504: sprite_base_addon_2012_12_14 (1)_252
+    21300506: sprite_base_addon_2012_12_14 (1)_253
+    21300508: sprite_base_addon_2012_12_14 (1)_254
+    21300510: sprite_base_addon_2012_12_14 (1)_255
+    21300512: sprite_base_addon_2012_12_14 (1)_256
+    21300514: sprite_base_addon_2012_12_14 (1)_257
+    21300516: sprite_base_addon_2012_12_14 (1)_258
+    21300518: sprite_base_addon_2012_12_14 (1)_259
+    21300520: sprite_base_addon_2012_12_14 (1)_260
+    21300522: sprite_base_addon_2012_12_14 (1)_261
+    21300524: sprite_base_addon_2012_12_14 (1)_262
+    21300526: sprite_base_addon_2012_12_14 (1)_263
+    21300528: sprite_base_addon_2012_12_14 (1)_264
+    21300530: sprite_base_addon_2012_12_14 (1)_265
+    21300532: sprite_base_addon_2012_12_14 (1)_266
+    21300534: sprite_base_addon_2012_12_14 (1)_267
+    21300536: sprite_base_addon_2012_12_14 (1)_268
+    21300538: sprite_base_addon_2012_12_14 (1)_269
+    21300540: sprite_base_addon_2012_12_14 (1)_270
+    21300542: sprite_base_addon_2012_12_14 (1)_271
+    21300544: sprite_base_addon_2012_12_14 (1)_272
+    21300546: sprite_base_addon_2012_12_14 (1)_273
+    21300548: sprite_base_addon_2012_12_14 (1)_274
+    21300550: sprite_base_addon_2012_12_14 (1)_275
+    21300552: sprite_base_addon_2012_12_14 (1)_276
+    21300554: sprite_base_addon_2012_12_14 (1)_277
+    21300556: sprite_base_addon_2012_12_14 (1)_278
+    21300558: sprite_base_addon_2012_12_14 (1)_279
+    21300560: sprite_base_addon_2012_12_14 (1)_280
+    21300562: sprite_base_addon_2012_12_14 (1)_281
+    21300564: sprite_base_addon_2012_12_14 (1)_282
+    21300566: sprite_base_addon_2012_12_14 (1)_283
+    21300568: sprite_base_addon_2012_12_14 (1)_284
+    21300570: sprite_base_addon_2012_12_14 (1)_285
+    21300572: sprite_base_addon_2012_12_14 (1)_286
+    21300574: sprite_base_addon_2012_12_14 (1)_287
+    21300576: sprite_base_addon_2012_12_14 (1)_288
+    21300578: sprite_base_addon_2012_12_14 (1)_289
+    21300580: sprite_base_addon_2012_12_14 (1)_290
+    21300582: sprite_base_addon_2012_12_14 (1)_291
+    21300584: sprite_base_addon_2012_12_14 (1)_292
+    21300586: sprite_base_addon_2012_12_14 (1)_293
+    21300588: sprite_base_addon_2012_12_14 (1)_294
+    21300590: sprite_base_addon_2012_12_14 (1)_295
+    21300592: sprite_base_addon_2012_12_14 (1)_296
+    21300594: sprite_base_addon_2012_12_14 (1)_297
+    21300596: sprite_base_addon_2012_12_14 (1)_298
+    21300598: sprite_base_addon_2012_12_14 (1)_299
+    21300600: sprite_base_addon_2012_12_14 (1)_300
+    21300602: sprite_base_addon_2012_12_14 (1)_301
+    21300604: sprite_base_addon_2012_12_14 (1)_302
+    21300606: sprite_base_addon_2012_12_14 (1)_303
+    21300608: sprite_base_addon_2012_12_14 (1)_304
+    21300610: sprite_base_addon_2012_12_14 (1)_305
+    21300612: sprite_base_addon_2012_12_14 (1)_306
+    21300614: sprite_base_addon_2012_12_14 (1)_307
+    21300616: sprite_base_addon_2012_12_14 (1)_308
+    21300618: sprite_base_addon_2012_12_14 (1)_309
+    21300620: sprite_base_addon_2012_12_14 (1)_310
+    21300622: sprite_base_addon_2012_12_14 (1)_311
+    21300624: sprite_base_addon_2012_12_14 (1)_312
+    21300626: sprite_base_addon_2012_12_14 (1)_313
+    21300628: sprite_base_addon_2012_12_14 (1)_314
+    21300630: sprite_base_addon_2012_12_14 (1)_315
+    21300632: sprite_base_addon_2012_12_14 (1)_316
+    21300634: sprite_base_addon_2012_12_14 (1)_317
+    21300636: sprite_base_addon_2012_12_14 (1)_318
+    21300638: sprite_base_addon_2012_12_14 (1)_319
+    21300640: sprite_base_addon_2012_12_14 (1)_320
+    21300642: sprite_base_addon_2012_12_14 (1)_321
+    21300644: sprite_base_addon_2012_12_14 (1)_322
+    21300646: sprite_base_addon_2012_12_14 (1)_323
+    21300648: sprite_base_addon_2012_12_14 (1)_324
+    21300650: sprite_base_addon_2012_12_14 (1)_325
+    21300652: sprite_base_addon_2012_12_14 (1)_326
+    21300654: sprite_base_addon_2012_12_14 (1)_327
+    21300656: sprite_base_addon_2012_12_14 (1)_328
+    21300658: sprite_base_addon_2012_12_14 (1)_329
+    21300660: sprite_base_addon_2012_12_14 (1)_330
+    21300662: sprite_base_addon_2012_12_14 (1)_331
+    21300664: sprite_base_addon_2012_12_14 (1)_332
+    21300666: sprite_base_addon_2012_12_14 (1)_333
+    21300668: sprite_base_addon_2012_12_14 (1)_334
+    21300670: sprite_base_addon_2012_12_14 (1)_335
+    21300672: sprite_base_addon_2012_12_14 (1)_336
+    21300674: sprite_base_addon_2012_12_14 (1)_337
+    21300676: sprite_base_addon_2012_12_14 (1)_338
+    21300678: sprite_base_addon_2012_12_14 (1)_339
+    21300680: sprite_base_addon_2012_12_14 (1)_340
+    21300682: sprite_base_addon_2012_12_14 (1)_341
+    21300684: sprite_base_addon_2012_12_14 (1)_342
+    21300686: sprite_base_addon_2012_12_14 (1)_343
+    21300688: sprite_base_addon_2012_12_14 (1)_344
+    21300690: sprite_base_addon_2012_12_14 (1)_345
+    21300692: sprite_base_addon_2012_12_14 (1)_346
+    21300694: sprite_base_addon_2012_12_14 (1)_347
+    21300696: sprite_base_addon_2012_12_14 (1)_348
+    21300698: sprite_base_addon_2012_12_14 (1)_349
+    21300700: sprite_base_addon_2012_12_14 (1)_350
+    21300702: sprite_base_addon_2012_12_14 (1)_351
+    21300704: sprite_base_addon_2012_12_14 (1)_352
+    21300706: sprite_base_addon_2012_12_14 (1)_353
+    21300708: sprite_base_addon_2012_12_14 (1)_354
+    21300710: sprite_base_addon_2012_12_14 (1)_355
+    21300712: sprite_base_addon_2012_12_14 (1)_356
+    21300714: sprite_base_addon_2012_12_14 (1)_357
+    21300716: sprite_base_addon_2012_12_14 (1)_358
+    21300718: sprite_base_addon_2012_12_14 (1)_359
+    21300720: sprite_base_addon_2012_12_14 (1)_360
+    21300722: sprite_base_addon_2012_12_14 (1)_361
+    21300724: sprite_base_addon_2012_12_14 (1)_362
+    21300726: sprite_base_addon_2012_12_14 (1)_363
+    21300728: sprite_base_addon_2012_12_14 (1)_364
+    21300730: sprite_base_addon_2012_12_14 (1)_365
+    21300732: sprite_base_addon_2012_12_14 (1)_366
+    21300734: sprite_base_addon_2012_12_14 (1)_367
+    21300736: sprite_base_addon_2012_12_14 (1)_368
+    21300738: sprite_base_addon_2012_12_14 (1)_369
+    21300740: sprite_base_addon_2012_12_14 (1)_370
+    21300742: sprite_base_addon_2012_12_14 (1)_371
+    21300744: sprite_base_addon_2012_12_14 (1)_372
+    21300746: sprite_base_addon_2012_12_14 (1)_373
+    21300748: sprite_base_addon_2012_12_14 (1)_374
+    21300750: sprite_base_addon_2012_12_14 (1)_375
+    21300752: sprite_base_addon_2012_12_14 (1)_376
+    21300754: sprite_base_addon_2012_12_14 (1)_377
+    21300756: sprite_base_addon_2012_12_14 (1)_378
+    21300758: sprite_base_addon_2012_12_14 (1)_379
+    21300760: sprite_base_addon_2012_12_14 (1)_380
+    21300762: sprite_base_addon_2012_12_14 (1)_381
+    21300764: sprite_base_addon_2012_12_14 (1)_382
+    21300766: sprite_base_addon_2012_12_14 (1)_383
+    21300768: sprite_base_addon_2012_12_14 (1)_384
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 970
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 970
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 970
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 970
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 992
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 992
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 993
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 993
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 991
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 993
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 906
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 906
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 906
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 906
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 906
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 906
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 906
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 906
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 923
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 924
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 923
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 924
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 924
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 922
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 924
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 842
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 844
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 843
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 843
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 844
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 842
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 842
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 842
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 858
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 860
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 858
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 860
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 860
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 847
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 860
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 859
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 860
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 860
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 860
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 860
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 860
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 858
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 860
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 860
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 859
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 847
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 847
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 847
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 847
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 778
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 778
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 778
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 781
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 783
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 780
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 781
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 781
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 778
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 778
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 801
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 800
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 801
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 802
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 802
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 789
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 788
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 801
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 802
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 802
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 802
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 802
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 802
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 800
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 802
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 802
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 801
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 788
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 789
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 789
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 789
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 789
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 789
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 789
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 787
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 789
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 787
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 789
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 789
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 714
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 714
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 714
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 714
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_100
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 714
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_101
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 735
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_102
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 736
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_103
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 736
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_104
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 735
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_105
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 736
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_106
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 736
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_107
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 736
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_108
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 736
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_109
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 736
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_110
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 735
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_111
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 734
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_112
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 736
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_113
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 736
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_114
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 734
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_115
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 736
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_116
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 736
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_117
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 714
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_118
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 715
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_119
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 714
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_120
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 714
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_121
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 650
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_122
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 650
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_123
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 650
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_124
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 650
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_125
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 650
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_126
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 650
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_127
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 650
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_128
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 662
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_129
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 664
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_130
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 664
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_131
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 664
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_132
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 664
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_133
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 664
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_134
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 663
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_135
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 664
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_136
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 664
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_137
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 664
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_138
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 662
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_139
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 664
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_140
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 663
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_141
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 664
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_142
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 664
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_143
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 664
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_144
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 662
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_145
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 664
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_146
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 664
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_147
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 664
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_148
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 664
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_149
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 662
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_150
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 664
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_151
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 664
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_152
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 663
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_153
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 664
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_154
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 664
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_155
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 664
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_156
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 664
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_157
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 664
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_158
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 664
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_159
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 662
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_160
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 664
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_161
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 664
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_162
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 586
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_163
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 586
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_164
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 586
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_165
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 586
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_166
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 586
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_167
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 586
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_168
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 603
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_169
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 604
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_170
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 604
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_171
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 604
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_172
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 603
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_173
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 604
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_174
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 604
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_175
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 604
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_176
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 602
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_177
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 604
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_178
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 603
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_179
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 604
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_180
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 604
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_181
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 604
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_182
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 604
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_183
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 604
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_184
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 604
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_185
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 602
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_186
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 604
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_187
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 604
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_188
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 553
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_189
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 555
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_190
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 553
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_191
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 555
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_192
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 555
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_193
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 554
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_194
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 555
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_195
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_196
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 555
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_197
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 553
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_198
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 555
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_199
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 554
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_200
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 553
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_201
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 555
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_202
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 555
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_203
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 555
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_204
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 555
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_205
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 553
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_206
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 555
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_207
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 555
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_208
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 554
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_209
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 555
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_210
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 555
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_211
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 555
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_212
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 555
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_213
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 522
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_214
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 522
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_215
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 522
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_216
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 522
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_217
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 524
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_218
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 525
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_219
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 525
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_220
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 524
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_221
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 524
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_222
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 525
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_223
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 523
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_224
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 525
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_225
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 525
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_226
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 523
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_227
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 523
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_228
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 525
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_229
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 525
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_230
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 524
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_231
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 525
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_232
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 525
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_233
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 525
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_234
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 523
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_235
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 525
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_236
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 524
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_237
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 523
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_238
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 525
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_239
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 525
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_240
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 525
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_241
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 525
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_242
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 523
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_243
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 525
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_244
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 525
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_245
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 524
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_246
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 525
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_247
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 525
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_248
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 525
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_249
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 525
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_250
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 525
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_251
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 458
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_252
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 458
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_253
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 458
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_254
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 458
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_255
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 458
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_256
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 458
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_257
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 458
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_258
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 458
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_259
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 458
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_260
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 458
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_261
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 458
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_262
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 458
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_263
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 458
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_264
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 394
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_265
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 394
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_266
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 394
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_267
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 394
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_268
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 394
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_269
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 394
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_270
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 394
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_271
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 394
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_272
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 394
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_273
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 394
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_274
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 406
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_275
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 407
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_276
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 407
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_277
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 407
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_278
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 407
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_279
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 407
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_280
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 407
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_281
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 407
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_282
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 407
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_283
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 406
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_284
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 361
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_285
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 362
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_286
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 362
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_287
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 362
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_288
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 361
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_289
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 362
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_290
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 330
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_291
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 330
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_292
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 330
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_293
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 330
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_294
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 330
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_295
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 330
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_296
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 330
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_297
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 330
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_298
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 330
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_299
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 330
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_300
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 330
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_301
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 330
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_302
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 336
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_303
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 337
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_304
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 337
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_305
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 337
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_306
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 337
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_307
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 337
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_308
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 336
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_309
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 337
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_310
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 337
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_311
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 266
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_312
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 266
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_313
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 266
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_314
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 266
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_315
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 266
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_316
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 266
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_317
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 278
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_318
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 277
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_319
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 279
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_320
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 279
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_321
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 279
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_322
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 278
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_323
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 202
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_324
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 202
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_325
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 202
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_326
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 202
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_327
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 202
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_328
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 202
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_329
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 202
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_330
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 202
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_331
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 217
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_332
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 218
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_333
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_334
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 218
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_335
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_336
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 218
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_337
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 218
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_338
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 218
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_339
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 218
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_340
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 217
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_341
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 138
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_342
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 138
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_343
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 138
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_344
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 138
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_345
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 138
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_346
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 138
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_347
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 138
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_348
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 138
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_349
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 150
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_350
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 151
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_351
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 151
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_352
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 151
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_353
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 151
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_354
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 151
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_355
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 151
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_356
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 151
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_357
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_358
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 74
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_359
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 74
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_360
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 74
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_361
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 74
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_362
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 74
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_363
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 74
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_364
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 74
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_365
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 74
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_366
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 91
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_367
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 92
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_368
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 92
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_369
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 92
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_370
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 92
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_371
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 92
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_372
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_373
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 10
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_374
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 10
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_375
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_376
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 10
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_377
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 10
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_378
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 10
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_379
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 27
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_380
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_381
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_382
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 28
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_383
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 28
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14 (1)_384
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
