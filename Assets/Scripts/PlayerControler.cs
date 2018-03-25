@@ -23,6 +23,7 @@ public class PlayerControler : MonoBehaviour {
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             Jump();
+            moveX = Input.GetAxis("Horizontal");
         }
         if((moveX < 0.0f && !facingLeft) || (moveX > 0.0f && facingLeft))
         {
