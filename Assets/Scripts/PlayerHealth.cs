@@ -16,22 +16,25 @@ public class PlayerHealth : MonoBehaviour {
     [SerializeField]
     public Image HeartCointainer;
 
+    public AudioClip ouch_crack;
+    public float enemyJumpPower = 12.5f;
+
     private void Start()
     {
         deadMenu.SetActive(false);
-    }
-    private void Update()
-    {
         HeartCointainer.sprite = heartsSprites[health];
     }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Enemy")
         {
+            AudioSource.PlayClipAtPoint(ouch_crack, transform.position);
             health--;
-            if(health == 0)
+            HeartCointainer.sprite = heartsSprites[health];
+            
+             if (health == 0)
             {
-                HeartCointainer.sprite = heartsSprites[health];
                 gameObject.SetActive(false);
                 deadMenu.SetActive(true);
             }

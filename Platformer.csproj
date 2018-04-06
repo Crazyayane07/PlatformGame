@@ -254,6 +254,9 @@
     <Reference Include="UnityEditor.Graphs">
       <HintPath>D:/Unity najnowsze do kursu itd/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.WebGL.Extensions">
+      <HintPath>D:/Unity najnowsze do kursu itd/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>D:/Unity najnowsze do kursu itd/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
@@ -288,6 +291,7 @@
     <Compile Include="Assets\Scripts\EnemyControler.cs" />
     <Compile Include="Assets\Scripts\MenuBehaviour.cs" />
     <Compile Include="Assets\Scripts\MovingPlatform.cs" />
+    <Compile Include="Assets\Scripts\MusicPlayer.cs" />
     <Compile Include="Assets\Scripts\PlayerControler.cs" />
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\PlayerScore.cs" />

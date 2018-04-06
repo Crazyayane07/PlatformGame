@@ -55,7 +55,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 10
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -117,8 +117,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceffca9f4b77bfe45ab6d747bdfcd7a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemySpeed: 0.8
   xMoveDirection: -1.22
+  player: {fileID: 1392556213493438, guid: 226e128e3ffa5dc4c922b5cf7e14443c, type: 2}
+  enemyJumpPower: 13000
+  distance: 0
+  enemy_crack: {fileID: 8300000, guid: a780d0dacbafcad49862cad460982aaa, type: 3}
+  isGrounded: 0
 --- !u!212 &212812859284525520
 SpriteRenderer:
   m_ObjectHideFlags: 1

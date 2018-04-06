@@ -11,11 +11,13 @@ public class Stage1Fell : MonoBehaviour {
     const string LEVEL_2_SCENE = "Scene_3";
     const float LEVEL_2_X = -16.97f;
     const float LEVEL_2_Y = 0.32f;
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Player")
         {
-            StartCoroutine(Respawn(collision, SceneManager.GetActiveScene().name));
+            // StartCoroutine(Respawn(collision, SceneManager.GetActiveScene().name));
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
     }
     IEnumerator Respawn(Collision2D collision, string level)
