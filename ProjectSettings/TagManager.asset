@@ -8,6 +8,7 @@ TagManager:
   - coin
   - Enemy
   - Box
+  - MusicPlayer
   layers:
   - Default
   - TransparentFX

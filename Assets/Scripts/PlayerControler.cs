@@ -29,22 +29,29 @@ public class PlayerControler : MonoBehaviour {
         firePoint = transform;
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-        animator.runtimeAnimatorController = animatorOverrideController;
+        //animator.runtimeAnimatorController = animatorOverrideController;
     }
 
     private void Update()
     {
+        animator.SetBool("grounded", isGrounded);
         PlayerMove();
+
         if (Input.GetButton("Fire1"))
         {
             Shoot();
         }
     }
+    
 
     public void PlayerMove()
     {
-        moveX = Input.GetAxis("Horizontal");
+
         
+        
+        moveX = Input.GetAxis("Horizontal");
+        animator.SetFloat("vspeed", Mathf.Abs(moveX));
+
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             Jump();
@@ -53,7 +60,7 @@ public class PlayerControler : MonoBehaviour {
         if((moveX < 0.0f && !facingLeft) || (moveX > 0.0f && facingLeft))
         {
             FlipPlayer();
-            
+           
         }
         //gameObject.GetComponent<AudioSource>().Stop();
         gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2(moveX * playerSpeed, gameObject.GetComponent<Rigidbody2D>().velocity.y);
@@ -69,6 +76,7 @@ public class PlayerControler : MonoBehaviour {
 
     private void Jump()
     {
+        
         AudioSource.PlayClipAtPoint(jump_crack, transform.position);
         GetComponent<Rigidbody2D>().AddForce(Vector2.up * playerJumpPower);
         isGrounded = false;
