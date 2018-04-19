@@ -13,6 +13,7 @@ public class MenuBehaviour : MonoBehaviour {
         {
             case (START_GAME_BTN):
                 SceneManager.LoadScene("Scene_2");
+                PlayerHealth.health = 3;
                 break;
             case (QUIT_GAME_BTN):
                 Application.Quit();

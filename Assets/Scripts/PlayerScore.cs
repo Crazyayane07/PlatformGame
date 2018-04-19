@@ -15,26 +15,25 @@ public class PlayerScore : MonoBehaviour
 
     public object SceneMenager { get; private set; }
 
-    private void Update()
+    public AudioClip crack;
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
+        if (collision.gameObject.tag == "coin")
+        {
+            AudioSource.PlayClipAtPoint(crack, transform.position);
+            playerScore++;
+            playerScoreText.text = playerScore.ToString();
+            Destroy(collision.gameObject);
+        }
         if (playerScore == TO_NEXT_LEVEL_POINTS && SceneManager.GetActiveScene().name == LEVEL_1)
         {
             playerScore = 0;
             SceneManager.LoadScene(LEVEL_2);
         }
-        else if(playerScore == TO_NEXT_LEVEL_POINTS && SceneManager.GetActiveScene().name == LEVEL_2)
+        else if (playerScore == TO_NEXT_LEVEL_POINTS && SceneManager.GetActiveScene().name == LEVEL_2)
         {
             SceneManager.LoadScene(MAIN_MENU);
-        }
-
-    }
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "coin")
-        {
-            playerScore++;
-            playerScoreText.text = playerScore.ToString();
-            Destroy(collision.gameObject);
         }
     }
 }

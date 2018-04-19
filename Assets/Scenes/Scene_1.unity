@@ -139,7 +139,7 @@ RectTransform:
   m_GameObject: {fileID: 274029843}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.1172614, y: 0.92811835, z: 1}
+  m_LocalScale: {x: 2.7372906, y: 1.8446246, z: 1}
   m_Children:
   - {fileID: 1006720875}
   m_Father: {fileID: 776121607}
@@ -147,7 +147,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5.9996, y: 19}
+  m_AnchoredPosition: {x: -5.9996, y: 73}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &274029845
@@ -393,6 +393,48 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1001 &889040437
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4351304286742650, guid: 1e1019a1808ae5a49bf38d0dcbef8b64, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -12.584569
+      objectReference: {fileID: 0}
+    - target: {fileID: 4351304286742650, guid: 1e1019a1808ae5a49bf38d0dcbef8b64, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.5036507
+      objectReference: {fileID: 0}
+    - target: {fileID: 4351304286742650, guid: 1e1019a1808ae5a49bf38d0dcbef8b64, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -0.18994518
+      objectReference: {fileID: 0}
+    - target: {fileID: 4351304286742650, guid: 1e1019a1808ae5a49bf38d0dcbef8b64, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4351304286742650, guid: 1e1019a1808ae5a49bf38d0dcbef8b64, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4351304286742650, guid: 1e1019a1808ae5a49bf38d0dcbef8b64, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4351304286742650, guid: 1e1019a1808ae5a49bf38d0dcbef8b64, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4351304286742650, guid: 1e1019a1808ae5a49bf38d0dcbef8b64, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 1e1019a1808ae5a49bf38d0dcbef8b64, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &1006720874
 GameObject:
   m_ObjectHideFlags: 0
@@ -493,7 +535,7 @@ RectTransform:
   m_GameObject: {fileID: 1611907381}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.1172614, y: 0.9571192, z: 1}
+  m_LocalScale: {x: 2.7372906, y: 1.9022635, z: 1}
   m_Children:
   - {fileID: 1754982594}
   m_Father: {fileID: 776121607}
@@ -688,15 +730,15 @@ RectTransform:
   m_GameObject: {fileID: 1983042882}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.92527723, y: 0.81964326, z: 1}
+  m_LocalScale: {x: 0.6709433, y: 0.87877285, z: 1}
   m_Children: []
   m_Father: {fileID: 776121607}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -3}
-  m_SizeDelta: {x: 428, y: 324}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 1280, y: 720}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1983042884
 MonoBehaviour:
@@ -719,7 +761,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 32ba7e81c5633634d8a60588561bafa6, type: 3}
   m_Type: 0
-  m_PreserveAspect: 1
+  m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -828,7 +870,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 174.12831
+  orthographic size: 178.84428
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
