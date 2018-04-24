@@ -2,17 +2,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerControler : MonoBehaviour {
 
+    public Slider MusicSlider;
     public int playerSpeed = 10;
     private bool facingLeft = false;
     public float playerJumpPower = 12.5f;
     private float moveX;
     public bool isGrounded = false;
     public bool shooted = false;
-
+    
     public AudioClip jump_crack;
+    public AudioClip shoot_crack;
     private SpriteRenderer spriteRenderer;
     private Animator animator;
 
@@ -33,20 +36,19 @@ public class PlayerControler : MonoBehaviour {
     private void Update()
     {
         animator.SetBool("grounded", isGrounded);
+        //animator.SetBool("shooting", shooted);
         PlayerMove();
 
-        if (Input.GetButton("Fire1") && !shooted)
+        if (Input.GetButton("Fire1") && !shooted && isGrounded)
         {
+            animator.SetBool("shooting", true);
             Shoot();
         }
     }
     
-
     public void PlayerMove()
     {
 
-        
-        
         moveX = Input.GetAxis("Horizontal");
         animator.SetFloat("vspeed", Mathf.Abs(moveX));
 
@@ -74,8 +76,7 @@ public class PlayerControler : MonoBehaviour {
 
     private void Jump()
     {
-        
-        AudioSource.PlayClipAtPoint(jump_crack, transform.position);
+        AudioSource.PlayClipAtPoint(jump_crack, transform.position, MusicSlider.value);
         GetComponent<Rigidbody2D>().AddForce(Vector2.up * playerJumpPower);
         isGrounded = false;
     }
@@ -86,17 +87,18 @@ public class PlayerControler : MonoBehaviour {
             isGrounded = true;
             EnemyControler.MoveAgain();
         }
-        if (collision.gameObject.tag == "Box")
+        /*if (collision.gameObject.tag == "Box")
         {
             if(PlayerHealth.health == 3)
             {
                 EnemyControler.Wait();
             }
-        }
+        }*/
     }
 
     private void Shoot()
     {
+        StartCoroutine(justWaitAnimation());
         float x;
         float x_force;
         float y_force = 2f;
@@ -113,14 +115,22 @@ public class PlayerControler : MonoBehaviour {
         
         float y = player.transform.position.y;
         Vector3 position = new Vector3(x, y, gameObject.transform.position.z);
+        
+        AudioSource.PlayClipAtPoint(shoot_crack, transform.position, MusicSlider.value);
         Instantiate(ball, position, Quaternion.identity).GetComponent<Rigidbody2D>().AddForce(new Vector2(x_force,y_force));
-        shooted = true;
         StartCoroutine(Wait4Shoot());
+        shooted = true;
+        //animator.SetBool("shooting", shooted);
+        
     }
-
+    IEnumerator justWaitAnimation()
+    {
+        yield return new WaitForSeconds(8f);
+    }
     IEnumerator Wait4Shoot()
     {
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(0.5f);
+        animator.SetBool("shooting", false);
         shooted = false;
     }
 }

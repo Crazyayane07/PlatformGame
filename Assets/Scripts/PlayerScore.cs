@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class PlayerScore : MonoBehaviour
 {
+    public Slider MusicSlider;
     public int playerScore = 0;
     public Text playerScoreText;
     private const int TO_NEXT_LEVEL_POINTS = 5;
@@ -21,7 +22,7 @@ public class PlayerScore : MonoBehaviour
     {
         if (collision.gameObject.tag == "coin")
         {
-            AudioSource.PlayClipAtPoint(crack, transform.position);
+            AudioSource.PlayClipAtPoint(crack, transform.position, MusicSlider.value);
             playerScore++;
             playerScoreText.text = playerScore.ToString();
             Destroy(collision.gameObject);

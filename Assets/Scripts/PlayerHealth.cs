@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour {
     public static int health = 3;
-
+    public Slider MusicSlider;
     public GameObject deadMenu;
 
     [SerializeField]
@@ -29,7 +29,7 @@ public class PlayerHealth : MonoBehaviour {
     {
         if (collision.gameObject.tag == "Enemy")
         {
-            AudioSource.PlayClipAtPoint(ouch_crack, transform.position);
+            AudioSource.PlayClipAtPoint(ouch_crack, transform.position,MusicSlider.value);
             health--;
             HeartCointainer.sprite = heartsSprites[health];
             
